@@ -3,6 +3,6 @@ this add a line
 add a line and a centens
 this  is another line
 12345566
-add a new simple branch flex
+add a new simple branch flex add a conflict 
 
 
