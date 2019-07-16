@@ -2,4 +2,4 @@ this is a test file
 this add a line
 add a line and a centens
 this  is another line
-12345566
+12345566 add remote conflict
